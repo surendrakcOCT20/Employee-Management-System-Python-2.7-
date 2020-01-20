@@ -1,10 +1,10 @@
 from Tkinter import*
-from tkMessageBox import *
+from tkMessageBox import tkMessageBox
 import sqlite3
 import time;
 
 
-
+#well scripting
 
 
 
